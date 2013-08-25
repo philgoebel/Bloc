@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="177.4" y1="250.1" x2="309.3" y2="250.1">
+			<stop offset="0.1" stop-color="#656668"/>
+			<stop offset="0.9" stop-color="#A19E9A"/>
+		</linearGradient>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="17.8" y1="373.4" x2="177.4" y2="373.4">
+			<stop offset="0.1" stop-color="#FFFFFF"/>
+			<stop offset="0.9" stop-color="#A19E9A"/>
+		</linearGradient>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="145.7" y1="398" x2="285.5" y2="398">
+			<stop offset="0.1" stop-color="#FFFFFF"/>
+			<stop offset="0.9" stop-color="#A19E9A"/>
+		</linearGradient>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="218.2" y1="175.3" x2="423.5" y2="175.3">
+			<stop offset="0.1" stop-color="#D4D6D7"/>
+			<stop offset="0.9" stop-color="#848280"/>
+		</linearGradient>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="218.2" y1="367.1" x2="423.5" y2="367.1">
+			<stop offset="0.1" stop-color="#FFFFFF"/>
+			<stop offset="0.9" stop-color="#A19E9A"/>
+		</linearGradient>
+		<linearGradient id="gradient_6" gradientUnits="userSpaceOnUse" x1="17.8" y1="147.9" x2="309.3" y2="147.9">
+			<stop offset="0.1" stop-color="#FFFFFF"/>
+			<stop offset="0.9" stop-color="#A19E9A"/>
+		</linearGradient>
+		<linearGradient id="gradient_7" gradientUnits="userSpaceOnUse" x1="383.4" y1="141.9" x2="450.5" y2="141.9">
+			<stop offset="0.1" stop-color="#656668"/>
+			<stop offset="0.9" stop-color="#A19E9A"/>
+		</linearGradient>
+		<linearGradient id="gradient_8" gradientUnits="userSpaceOnUse" x1="218.2" y1="-16" x2="423.5" y2="-16">
+			<stop offset="0.1" stop-color="#FFFFFF"/>
+			<stop offset="0.9" stop-color="#A19E9A"/>
+		</linearGradient>
+	</defs>
+	<g stroke="#2E2F30" stroke-width="0.3" opacity="0.15"> 
+		<polygon fill="url(#gradient_1)" points="177.5,295.8 263.1,440.6 218.3,291 309.4,59.6"/>
+		<polygon fill="url(#gradient_2)" points="17.9,295.8 145.6,451 177.5,295.8"/>
+		<polygon fill="url(#gradient_3)" points="177.5,295.8 145.7,451.1 151.4,500.2 285.6,500.2 263.1,440.6"/>
+		<polygon fill="#EDECED" points="17.6,296.1 -0.9,315 -0.7,500.5 151.3,500.5 145.7,451.3"/>
+		<polygon fill="url(#gradient_4)" points="218.3,291 423.6,234.1 309.4,59.6"/>
+		<polygon fill="url(#gradient_5)" points="218.3,291 263.1,440.6 285.6,500.2 380,500.2 423.6,234.1"/>
+		<polygon fill="#EDECED" points="646.5,451.1 518.7,295.8 393.4,418.5 379.9,500.2 500.5,500.2 652.2,500.2"/>
+		<polygon fill="#EDECED" points="646,-49.3 518.3,-204.5 392.9,-81.9 380,-0.1 559.6,59.7 651.8,-0.1"/>
+		<polygon fill="url(#gradient_6)" points="285.7,0.2 150.5,0.2 58.7,59.6 17.9,295.8 177.5,295.8 309.4,59.6"/>
+		<polygon fill="url(#gradient_7)" points="450.5,106.8 394.2,59.6 383.4,49.8 389.5,59.6 423.6,116.5 423.6,234.1"/>
+		<polygon fill="url(#gradient_8)" points="383.4,49.8 380,-0.2 423.6,-266.3 218.3,-209.4 263,-59.8 285.6,-0.2 309.4,59.6 423.6,234.1 423.6,116.5 389.5,59.6"/>
+		<polygon fill="#D1D1D1" points="380,0 380,-0.2 380,-0.1 380.1,2.4 383.4,49.8 394.2,59.6 394.2,59.6 450.5,106.8 423.6,234.1 393.4,418.4 518.7,295.8 559.6,59.6"/>
+		<polygon fill="#D1D1D1" points="58.7,59.6 58.7,59.6 -0.9,39.5 -1.2,60 -0.3,314.4 17.6,296.1 58.6,60.4"/>
+		<polygon fill="#EDECED" points="145.4,-49.4 17.6,-204.6 -0.4,-187 -0.3,39.7 58.9,59.6 151.1,-0.2"/>
+	</g>
+</svg>
